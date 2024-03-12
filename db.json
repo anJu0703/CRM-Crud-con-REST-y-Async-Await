@@ -6,6 +6,13 @@
       "email": "jpmantilla2000@hotmail.com",
       "telefono": "3005113356",
       "empresa": "OSU"
+    },
+    {
+      "id": "ec2c",
+      "nombre": "El santi",
+      "email": "Elsantifurro@gmail.com",
+      "telefono": "5649654",
+      "empresa": "Jorge Ardila Duarte"
     }
   ]
 }
