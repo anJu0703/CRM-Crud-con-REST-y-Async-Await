@@ -1,3 +1,11 @@
 {
-  "clientes": []
+  "clientes": [
+    {
+      "id": "5bc3",
+      "nombre": "Juan",
+      "email": "jpmantilla2000@hotmail.com",
+      "telefono": "3005113356",
+      "empresa": "OSU"
+    }
+  ]
 }
