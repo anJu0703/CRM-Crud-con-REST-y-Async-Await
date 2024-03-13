@@ -30,3 +30,16 @@ export const obtenerClientes = async () => {
         console.log(error);
     }
 };
+
+//Elimina cliente de JSON server
+
+export const eliminarCliente = async id => {
+
+    try {
+        await fetch(`${url}/${id}`,{
+            method: 'DELETE'
+        });
+    } catch (error) {
+        console.log(error);
+    }
+}
