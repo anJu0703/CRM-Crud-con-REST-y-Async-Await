@@ -20,3 +20,8 @@ export function mostrarAlerta(mensaje) {
         }, 3000);
     };
 };
+
+//Funcion para validar inputs
+export function validar(cliente) {
+    return !Object.values(cliente).every(input => input !== '');
+};
